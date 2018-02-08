@@ -1,7 +1,7 @@
 {
-    "name": "shush",
+    "name": "Zip It",
     "version": "0.0.0",
-    "description": "Noise sensitivity",
+    "description": "Parent Patience Monitor",
     "license": "MIT",
     "dependencies": {
         "circuit-playground": "*"

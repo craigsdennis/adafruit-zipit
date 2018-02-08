@@ -1,7 +1,17 @@
-# shush
+# Zip It
 
-Noise sensitivity
+A patience monitor for parents.  Tracks and warns of patience depletion and sounds alarm on completion.
 
+## Installation Instructions:
+```
+npm install -g pxt
+pxt deploy
+```
+
+Make some noise, loud preferably.
+
+----
+Common bits
 ## TODO
 
 - [ ] Add a reference for your blocks here
